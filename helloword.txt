@@ -1,0 +1,6 @@
+cd : change directory
+cd .. : one directory back
+cd / : going to the root of the directory
+Mkdir: Making a new folder
+Touch: Making a new file
+Ls: List
