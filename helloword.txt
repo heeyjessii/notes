@@ -1,6 +1,44 @@
-cd : change directory
-cd .. : one directory back
-cd / : going to the root of the directory
-Mkdir: Making a new folder
-Touch: Making a new file
-Ls: List
+What is Git? Version control system for development
+
+What is Github? Web application of Git
+
+Tools we use:
+~Sublime Text
+~Git shell
+~Git Hub
+
+CLI: Command Line Interface; interacting with a computer in the form of successive lines of text
+
+GUI: Graphical User Interface; interacting with a computer using visual icon
+
+3 Levels of Knowing:
+~Knowing (Understanding)
+~Teaching (Showing someone your knowledge on the topic)
+~Grocking (Doing something for so long that it's apart of you now)
+
+Commands:
+ -ls:  list of folders
+ -cd: change in directory
+ -cd ..: Go back one directory
+ -cd ../: go back to root directory
+ -mkdir: making a folder
+ -touch <filename>: making a file
+ 
+Do not copy and paste. You don't know what each line of code does  before using code off the internet
+ 
+Git commands:
+ git init- initilize project repository
+ git status- checks project status
+ "clean"- no red in status
+ git add<file name>: adds to local git repository
+ git commit -m 'this is my first commit for notes': commit to local git
+ git config
+
+ How to get your old notes from last class
+ ~sublime text/file/open <filename>
+
+Github
+internet~~~~~~~~~~~~<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+       step 1:Working directory <text.txt>            ^
+       step 2:Git add(Staging)                        ^
+       step 3:Git commit (Local Git) <Push to Github> ^
