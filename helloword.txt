@@ -37,8 +37,9 @@ Git commands:
  How to get your old notes from last class
  ~sublime text/file/open <filename>
 
-Github
+           Github
 internet~~~~~~~~~~~~<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
        step 1:Working directory <text.txt>            ^
        step 2:Git add(Staging)                        ^
-       step 3:Git commit (Local Git) <Push to Github> ^
+       step 3:Git commit (Local Git)                  ^
+       step 4:Push to Github                          ^
