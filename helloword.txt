@@ -2,12 +2,30 @@ What is Git? Version control system for development
 
 What is Github? Web application of Git
 
+What are the two types of application environments?
+~Mobile
+~Desktop
+
+Traits of a Developer:
+~Team Player
+~Communication
+
+What tool do web developers use for a Version Control System?
+~Gitshell
+~The internet (?)
+
+What is the terminal (git shell) command to initialize git in your project folder?
+~Git Init
+
+***What does HTML stand for?
+~HyperText Markup Language
+
 Tools we use:
 ~Sublime Text
 ~Git shell
 ~Git Hub
 
-CLI: Command Line Interface; interacting with a computer in the form of successive lines of text
+CUI: Command Line Interface; interacting with a computer in the form of successive lines of text
 
 GUI: Graphical User Interface; interacting with a computer using visual icon
 
@@ -24,7 +42,7 @@ Commands:
  -mkdir: making a folder
  -touch <filename>: making a file
  
-Do not copy and paste. You don't know what each line of code does  before using code off the internet
+***Do not copy and paste. You don't know what each line of code does  before using code off the internet
  
 Git commands:
  git init- initilize project repository
@@ -43,3 +61,19 @@ internet~~~~~~~~~~~~<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
        step 2:Git add(Staging)                        ^
        step 3:Git commit (Local Git)                  ^
        step 4:Push to Github                          ^
+
+      UI:user interface color: visually apleasing
+      UX:user experience:using the site 
+        ex. bad UX: having a package that doesn't open
+            door that has the push sign, but you'd have to pull
+HTML CSS JAVASCRIPT 
+<HTML>
+<HEAD>
+<BODY>
+Blog Layout
+<H1> Title
+<H6> Name
+
+</BODY>
+</HEAD>
+</HTML>
