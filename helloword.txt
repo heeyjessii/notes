@@ -77,3 +77,90 @@ Blog Layout
 </BODY>
 </HEAD>
 </HTML>
+Cascading Style Sheet (CSS)
+
+h1{color:blue}
+selection (h1)
+property (color)
+value (blue)
+
+images: (../image/img.png)
+
+2 types of Elements
+-Inline : only takes what it's asked for
+-Block : like a div, takes whole entire width
+
+Example Example Example (Inline) When resizing it can break; go together
+
+
+Example
+Example
+Example (Block)
+
+Inline-Block : Inlines element enough fo rthe content and when resizing browser acts like a block element
+
+No float for list item (Not suggested)
+
+clearfix (class) fixes it by adding all elements
+content
+visibility:hidden
+display:block
+height:0'
+clear:both;
+
+% value than px when sizing picutures
+:hover
+Control-Shift-D
+border: size, color, solid
+
+Responsive Design
+ Build a site to respond to multiple sizes also known as fluid design
+  Example: Google.com, Facebook
+
+Grid Based Web Design
+ Web Design with grid content
+  Example: Tumblr, Pinterest
+
+Media Queries (In CSS)
+ Break points in CSS that tells your app to change according to screensize
+ 3 Common Breakpoints to Use Media Queries:
+     1. Desktop
+     2. Mobile
+     3. Tablet
+  Example: For smaller tablets
+  <style>
+  @media (max:width:600px) {
+  .fact-sidebar{
+    display:none;
+    }
+  }
+  </style>
+
+What is em in CSS?
+ Units of measure in CSS that adjust to parent times 150%. Use em in Responsive Design and pixels on static pages
+
+How do you convert em to px?
+Mupltiply by 1.5 (150%)
+
+When would you want to use em and px?
+ Not doing responsive design: px
+ Using responsive design: em
+
+Default size of Font:16px
+
+Psuedo Class Selectors?
+ What are Psuedo Class Selectors?
+  Used to define a special state
+  Common : Hover, Before and After, Focus, in-range, first child
+  Active buggy
+Mobile Design: Web application designed for mobile devices
+ what makes it effective? 
+  Media Queries/ simple to use (Won't look pretty w/o it)
+   example: Instagram
+ what makes it ineffective (what is it missing?
+  Media Queries
+Specificity?
+ Definition: Very Specific
+
+
+

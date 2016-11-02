@@ -1,0 +1,82 @@
+What is JavaScript?
+ -Web programming language
+
+Java and JavaScript
+  -2 different things 
+  -made by 2 different people 
+
+Colors representation
+blue: key words
+variables:containers for data
+defining a new variable: keyword var 
+define variable =
+console.log : back end of the computer
+displays what values
+
+VARIABLE NAME RULE
+case sensitive
+
+camelCase
+
+Different Type of Data Types {
+String Data Type: gets literal value
+
+syntax(?)
+
+Number Data Type (Integers; decimals, NaN(?)
+Boolean Data Type
+Null Data Type (empty;nothing)
+Undefined Data Type}
+
+Arrays []
+  -separated by comas (,)
+
+Brackets
+
+strict inequality and equality
+
+Modulo - Remainder 
+example:
+var x=7
+var y=2
+var z =x%y
+difference =1
+
+Caveat
+mystery - + with string will result in string as the final
+
+function -
+define a block statement to execute
+
+Invoking -
+grabs the flow of control to execute the defined block statement
+
+scope
+way to access variable and functions (?)
+
+declare and invoke 
+
+Objects - {}
+
+accessing object properties with (.) 
+example :
+color.green    //51
+color["green"] // 51
+var propertyName = "green"
+color[propertyName] // 51
+
+= assignment
+ == checks for equality
+
+ difference between ifs and else ifs
+  
+
+  conditionals
+  if else statements
+
+  operators
+   -&&
+   -<
+   -> 
+   -!
+
